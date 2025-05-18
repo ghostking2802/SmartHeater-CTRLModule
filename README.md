@@ -199,6 +199,10 @@ void loop() {
   display.display();
   delay(1000);
 }
+
+
+
+
 ## 👨‍💻 Author
 
 **Soumabha Majumdar**  
