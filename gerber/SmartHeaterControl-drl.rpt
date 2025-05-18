@@ -1,0 +1,28 @@
+Drill report for SmartHeaterControl.kicad_pcb
+Created on 2025-05-19T03:39:13+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'SmartHeaterControl-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (7 holes)
+    T2  0.750mm  0.0295"  (3 holes)
+    T3  0.800mm  0.0315"  (42 holes)
+    T4  0.900mm  0.0354"  (2 holes)
+    T5  1.100mm  0.0433"  (2 holes)
+    T6  1.520mm  0.0598"  (6 holes)
+    T7  1.780mm  0.0701"  (8 holes)
+
+    Total plated holes count 70
+
+
+Drill file 'SmartHeaterControl-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
