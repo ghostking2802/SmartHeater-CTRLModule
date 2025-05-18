@@ -17,23 +17,26 @@ This project is a smart safety and control module for electric heaters. Designed
 ---
 
 ## 📐 Block Diagram
+![Screenshot From 2025-05-19 02-45-44](https://github.com/user-attachments/assets/d3b5a882-02a3-451c-8951-0a6824dc8734)
 
-![Block Diagram](BlockDiagram.png)
+
 
 ---
 
 ## 🧪 Schematic
 
-![Schematic](Schematic.png)
+![Screenshot From 2025-05-19 04-06-10](https://github.com/user-attachments/assets/b756d44a-97ae-42f4-aee9-229b998851e7)
+
 
 ---
 
 ## 🛠️ PCB Layout Previews
+![Screenshot From 2025-05-19 04-08-29](https://github.com/user-attachments/assets/c04f8c2c-1d04-4698-a80e-f60cbcee7fe1)
+![Screenshot From 2025-05-19 04-07-51](https://github.com/user-attachments/assets/0d296524-fcb0-4bc2-b380-bd6ff490481c)
+![Screenshot From 2025-05-19 04-07-22](https://github.com/user-attachments/assets/da25d9b0-3ef0-4b68-84b6-f995406cad7d)
+![Screenshot From 2025-05-19 04-07-03](https://github.com/user-attachments/assets/23b37ba7-8d0b-4983-8964-1885ee26aa7d)
 
-![Top Copper](PCB_View_TopCopper.png)
-![Bottom Copper](PCB_View_BottomCopper.png)
-![Drill](PCB_View_Drill.png)
-![Edge Cuts](PCB_View_EdgeCuts.png)
+
 
 ---
 
