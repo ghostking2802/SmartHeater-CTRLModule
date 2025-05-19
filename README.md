@@ -128,6 +128,20 @@ AC Mains → Step-down SMPS → 5V/12V Regulated Supply → Microcontroller → 
 
 ---
 
+## 👨‍💻 Author
+
+**Soumabha Majumdar**  
+📧 [soumabha.majumdar@gmail.com](mailto:soumabha.majumdar@gmail.com)  
+📞 7003472159
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for academic and non-commercial purposes.
+
+
+
 ### 🔌 Sample Arduino Code
 
 ```cpp
@@ -199,18 +213,3 @@ void loop() {
   display.display();
   delay(1000);
 }
-
-
-
-
-## 👨‍💻 Author
-
-**Soumabha Majumdar**  
-📧 [soumabha.majumdar@gmail.com](mailto:soumabha.majumdar@gmail.com)  
-📞 7003472159
-
----
-
-## 📜 License
-
-This project is open-source and free to use for academic and non-commercial purposes.
